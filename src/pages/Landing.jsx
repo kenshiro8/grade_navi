@@ -1,7 +1,7 @@
 export default function Landing() {
   return (
     <div style={{ padding: 40 }}>
-      <h1>時間割管理アプリ</h1>
+      <h1>grade_navi</h1>
 
       <section>
         <h2>企画書</h2>
@@ -37,7 +37,7 @@ export default function Landing() {
       <section style={{ marginTop: 40 }}>
         <h2>ソースコード</h2>
         <a
-          href="https://github.com/xxxxx"
+          href="https://github.com/shimn34/dc_prog.git"
           target="_blank"
           rel="noopener noreferrer"
         >
