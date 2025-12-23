@@ -12,7 +12,7 @@ export default function Landing() {
 
       <section>
         <h2>使用方法</h2>
-        <a href="/docs/manual.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="/manual.pdf" target="_blank" rel="noopener noreferrer">
           使用方法（PDF）
         </a>
       </section>
