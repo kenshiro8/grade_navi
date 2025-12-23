@@ -1,5 +1,7 @@
 {
   "rewrites": [
+    { "source": "/docs/(.*)", "destination": "/docs/$1" },
+    { "source": "/video.mp4", "destination": "/video.mp4" },
     { "source": "/(.*)", "destination": "/" }
   ]
 }
