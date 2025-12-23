@@ -24,7 +24,7 @@ export default function Landing() {
 
       <section style={{ marginTop: 40 }}>
         <a
-          href="dc-prog.vercel.app"  // ← ここに外部WebアプリURLを入れる
+          href="https://grade-navi.vercel.app/"  // ← ここに外部WebアプリURLを入れる
           target="_blank"
           rel="noopener noreferrer"
         >
