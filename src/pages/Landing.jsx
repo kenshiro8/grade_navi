@@ -24,7 +24,7 @@ export default function Landing() {
 
       <section style={{ marginTop: 40 }}>
         <a
-          href="https://dc-prog.vercel.app/login"
+          href="https://dc-prog.vercel.app"
           target="_blank"
           rel="noopener noreferrer"
         >
