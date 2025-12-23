@@ -5,7 +5,7 @@ export default function Landing() {
 
       <section>
         <h2>企画書</h2>
-        <a href="./public/plan.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="/plan.pdf" target="_blank" rel="noopener noreferrer">
           企画書（PDF）
         </a>
       </section>
