@@ -1,7 +1,7 @@
 {
-  "rewrites": [
-    { "source": "/docs/(.*)", "destination": "/docs/$1" },
-    { "source": "/video.mp4", "destination": "/video.mp4" },
-    { "source": "/(.*)", "destination": "/" }
+  "routes": [
+    { "src": "/docs/(.*)", "dest": "/docs/$1" },
+    { "src": "/video.mp4", "dest": "/video.mp4" },
+    { "src": "/(.*)", "dest": "/index.html" }
   ]
 }
