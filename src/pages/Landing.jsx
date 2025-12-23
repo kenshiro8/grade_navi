@@ -19,7 +19,7 @@ export default function Landing() {
 
       <section>
         <h2>紹介ビデオ</h2>
-        <video src="/video.mp4" controls width="600" />
+        <video src="/video.mov" controls width="600" />
       </section>
 
       <section style={{ marginTop: 40 }}>
